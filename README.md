@@ -9,9 +9,6 @@
 
 # Communicate using Markdown
 
-# test H1
-### test H3
-
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
